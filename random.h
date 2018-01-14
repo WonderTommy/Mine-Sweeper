@@ -1,0 +1,1 @@
+int *m_random(int length, int total);

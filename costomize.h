@@ -1,0 +1,1 @@
+void costo_info(int *height, int *width, int *mine);

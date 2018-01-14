@@ -1,0 +1,1 @@
+void play_game(int *display, int *hide, int height, int width);

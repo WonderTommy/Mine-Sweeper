@@ -1,0 +1,1 @@
+void print_display(int *board, int height, int width);

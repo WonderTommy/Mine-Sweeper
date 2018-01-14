@@ -1,0 +1,1 @@
+void m_start(int *top, int *bottom);
